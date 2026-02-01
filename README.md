@@ -15,7 +15,7 @@
 
 <br>
 
-I am a **3rd-year undergraduate** based in India, specializing in web development and software engineering. I am currently preparing for **2026 placements** while working on freelance projects and AI integrations.
+I am a **3rd-year undergraduate** based in India, specializing in web development and software engineering. I am currently preparing for **tech placements** while working on freelance projects, AI integrations and Open source contributions.
 
 ---
 
